@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://b4064lxqg664c"]
+
+[ext_resource type="PackedScene" uid="uid://k0dpw8l30mih" path="res://scenes/tile_map.tscn" id="1_woi2t"]
+[ext_resource type="PackedScene" uid="uid://b2dqx7a3c2hqt" path="res://scenes/character_body_2d.tscn" id="2_81p5s"]
+[ext_resource type="PackedScene" uid="uid://o65fs7vra7qt" path="res://scenes/enemy_bot.tscn" id="3_0jep3"]
+
+[node name="world" type="Node2D"]
+z_index = 2
+z_as_relative = false
+
+[node name="TileMap" parent="." instance=ExtResource("1_woi2t")]
+position = Vector2(143, -2)
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("2_81p5s")]
+position = Vector2(143, -27)
+
+[node name="Enemy_bot" parent="." instance=ExtResource("3_0jep3")]
+position = Vector2(296, -21)

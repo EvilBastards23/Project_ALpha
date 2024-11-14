@@ -1,0 +1,262 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1731564264
+icon.svg::CompressedTexture2D::8418504737781995314::1730438763::1730438763::1::::<><>::
+::res://addons/::1730972611
+::res://addons/limboai/::1730972629
+LICENSE.md::TextFile::-1::1730972611::0::1::::<><>::
+LOGO_LICENSE.md::TextFile::-1::1730972612::0::1::::<><>::
+README.md::TextFile::-1::1730972612::0::1::::<><>::
+version.txt::TextFile::-1::1730972629::0::1::::<><>::
+::res://addons/limboai/bin/::1731564260
+limboai.gdextension::GDExtension::-1::1730972614::0::1::::<><>::
+::res://addons/limboai/bin/liblimboai.macos.editor.framework/::1730972613
+::res://addons/limboai/bin/liblimboai.macos.template_release.framework/::1730972613
+::res://addons/limboai/icons/::1730972646
+BehaviorTree.svg::CompressedTexture2D::4825867664843301187::1730972624::1730972646::1::::<><>::
+BehaviorTreeView.svg::CompressedTexture2D::6643450016584795299::1730972624::1730972646::1::::<><>::
+BlackboardPlan.svg::CompressedTexture2D::5249814318629624727::1730972624::1730972646::1::::<><>::
+BTAction.svg::CompressedTexture2D::2553281129231638675::1730972614::1730972646::1::::<><>::
+BTAlwaysFail.svg::CompressedTexture2D::3190775655088941812::1730972614::1730972646::1::::<><>::
+BTAlwaysSucceed.svg::CompressedTexture2D::8897483293543999918::1730972614::1730972646::1::::<><>::
+BTAwaitAnimation.svg::CompressedTexture2D::5732671667187607128::1730972614::1730972646::1::::<><>::
+BTCallMethod.svg::CompressedTexture2D::4315401234228653747::1730972615::1730972646::1::::<><>::
+BTCheckAgentProperty.svg::CompressedTexture2D::3676625797012835137::1730972615::1730972646::1::::<><>::
+BTCheckTrigger.svg::CompressedTexture2D::4503514781553142509::1730972615::1730972646::1::::<><>::
+BTCheckVar.svg::CompressedTexture2D::1374887447276560055::1730972615::1730972646::1::::<><>::
+BTComment.svg::CompressedTexture2D::8326220201176113035::1730972616::1730972646::1::::<><>::
+BTCondition.svg::CompressedTexture2D::1114465687235365145::1730972616::1730972646::1::::<><>::
+BTConsolePrint.svg::CompressedTexture2D::4103486583025013541::1730972616::1730972646::1::::<><>::
+BTCooldown.svg::CompressedTexture2D::7384346608474736931::1730972616::1730972646::1::::<><>::
+BTDecorator.svg::CompressedTexture2D::935654256571331745::1730972617::1730972646::1::::<><>::
+BTDelay.svg::CompressedTexture2D::1294734918978738810::1730972617::1730972646::1::::<><>::
+BTDynamicSelector.svg::CompressedTexture2D::6218551488353839602::1730972617::1730972646::1::::<><>::
+BTDynamicSequence.svg::CompressedTexture2D::274751858502735826::1730972617::1730972646::1::::<><>::
+BTEvaluateExpression.svg::CompressedTexture2D::7084530617572360709::1730972617::1730972646::1::::<><>::
+BTFail.svg::CompressedTexture2D::4782725197551949373::1730972618::1730972646::1::::<><>::
+BTForEach.svg::CompressedTexture2D::5403448913259204320::1730972618::1730972646::1::::<><>::
+BTInvert.svg::CompressedTexture2D::1086575424611626679::1730972618::1730972646::1::::<><>::
+BTNewScope.svg::CompressedTexture2D::8853925842576885861::1730972618::1730972646::1::::<><>::
+BTParallel.svg::CompressedTexture2D::6598080936804598677::1730972619::1730972646::1::::<><>::
+BTPauseAnimation.svg::CompressedTexture2D::1693262577084096289::1730972619::1730972646::1::::<><>::
+BTPlayAnimation.svg::CompressedTexture2D::694363288839861185::1730972619::1730972646::1::::<><>::
+BTPlayer.svg::CompressedTexture2D::8495800304067008980::1730972619::1730972646::1::::<><>::
+BTProbability.svg::CompressedTexture2D::5954376998284506588::1730972620::1730972646::1::::<><>::
+BTProbabilitySelector.svg::CompressedTexture2D::8271453337431638248::1730972620::1730972646::1::::<><>::
+BTRandomSelector.svg::CompressedTexture2D::4390493346951471569::1730972620::1730972646::1::::<><>::
+BTRandomSequence.svg::CompressedTexture2D::1963269300470545966::1730972620::1730972646::1::::<><>::
+BTRandomWait.svg::CompressedTexture2D::6673955093611878739::1730972621::1730972646::1::::<><>::
+BTRepeat.svg::CompressedTexture2D::7231825499477947428::1730972621::1730972646::1::::<><>::
+BTRepeatUntilFailure.svg::CompressedTexture2D::1948573698740026058::1730972621::1730972646::1::::<><>::
+BTRepeatUntilSuccess.svg::CompressedTexture2D::8801624726262827455::1730972621::1730972646::1::::<><>::
+BTRunLimit.svg::CompressedTexture2D::1228523600918736011::1730972621::1730972646::1::::<><>::
+BTSelector.svg::CompressedTexture2D::9002523708863838626::1730972622::1730972646::1::::<><>::
+BTSequence.svg::CompressedTexture2D::8378957284348552700::1730972622::1730972646::1::::<><>::
+BTSetAgentProperty.svg::CompressedTexture2D::3809479258042034652::1730972622::1730972646::1::::<><>::
+BTSetVar.svg::CompressedTexture2D::1373834448090254964::1730972622::1730972646::1::::<><>::
+BTState.svg::CompressedTexture2D::2653576944055520966::1730972623::1730972646::1::::<><>::
+BTStopAnimation.svg::CompressedTexture2D::3465543254199498962::1730972623::1730972646::1::::<><>::
+BTSubtree.svg::CompressedTexture2D::8803741795429034138::1730972623::1730972646::1::::<><>::
+BTTimeLimit.svg::CompressedTexture2D::4751444732567692373::1730972623::1730972646::1::::<><>::
+BTWait.svg::CompressedTexture2D::1078297325480651321::1730972624::1730972646::1::::<><>::
+BTWaitTicks.svg::CompressedTexture2D::7816198147095818336::1730972624::1730972646::1::::<><>::
+LimboAI.svg::CompressedTexture2D::2950943941162912358::1730972625::1730972646::1::::<><>::
+LimboDeselectAll.svg::CompressedTexture2D::419698821922190745::1730972625::1730972646::1::::<><>::
+LimboEditBlackboard.svg::CompressedTexture2D::1379650117191606169::1730972625::1730972646::1::::<><>::
+LimboExtraBlackboard.svg::CompressedTexture2D::2888932105632518101::1730972625::1730972646::1::::<><>::
+LimboExtraClock.svg::CompressedTexture2D::8556705470753352062::1730972626::1730972646::1::::<><>::
+LimboExtractSubtree.svg::CompressedTexture2D::2064474572253932339::1730972626::1730972646::1::::<><>::
+LimboExtraVariable.svg::CompressedTexture2D::5994487360564615236::1730972626::1730972646::1::::<><>::
+LimboHSM.svg::CompressedTexture2D::1504889785802836408::1730972626::1730972646::1::::<><>::
+LimboPercent.svg::CompressedTexture2D::7519403960107214000::1730972627::1730972646::1::::<><>::
+LimboSelectAll.svg::CompressedTexture2D::7657816952927843254::1730972627::1730972646::1::::<><>::
+LimboState.svg::CompressedTexture2D::4049378881857355052::1730972627::1730972646::1::::<><>::
+LimboVarAdd.svg::CompressedTexture2D::1189608731255400276::1730972627::1730972646::1::::<><>::
+LimboVarEmpty.svg::CompressedTexture2D::302346386020689732::1730972627::1730972646::1::::<><>::
+LimboVarError.svg::CompressedTexture2D::399258444212311401::1730972628::1730972646::1::::<><>::
+LimboVarExists.svg::CompressedTexture2D::3625601758813308413::1730972628::1730972646::1::::<><>::
+LimboVarNotFound.svg::CompressedTexture2D::529715086864999197::1730972628::1730972646::1::::<><>::
+LimboVarPrivate.svg::CompressedTexture2D::8197658670013810565::1730972628::1730972646::1::::<><>::
+::res://asset/::1730438763
+::res://asset/DARK Edition/::1730438763
+::res://asset/DARK Edition/Animated objects/::1730438763
+::res://asset/DARK Edition/Animated objects/Door/::1730438763
+door open 41x48.png::CompressedTexture2D::5539741027044024318::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Animated objects/Flower/::1730438763
+flower glow 16x16.png::CompressedTexture2D::1394310125086733613::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Animated objects/Portal/::1730438763
+idle 28x41.png::CompressedTexture2D::6251120660650641956::1730438763::1730438763::1::::<><>::
+warp 28x41.png::CompressedTexture2D::8823867576880777418::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Animated objects/Save/::1730438763
+down 16x19.png::CompressedTexture2D::861968807551160685::1730438763::1730438763::1::::<><>::
+idle 16x19.png::CompressedTexture2D::7449614062540794065::1730438763::1730438763::1::::<><>::
+start up16x19.png::CompressedTexture2D::5134213018346175353::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Animated objects/Torch/::1730438763
+Torch 16x16.png::CompressedTexture2D::4049521298999157668::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Sprites/::1730438763
+flame dude dark 94x64.png::CompressedTexture2D::1010628730918714906::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Sprites/Blinding Spider/::1730438763
+blind attack 16x16.png::CompressedTexture2D::7849050380754881215::1730438763::1730438763::1::::<><>::
+damaged 16x16.png::CompressedTexture2D::8960366140150028285::1730438763::1730438763::1::::<><>::
+deah 16x16.png::CompressedTexture2D::8188269806483904033::1730438763::1730438763::1::::<><>::
+prep blind attack 16x16.png::CompressedTexture2D::7893639362301383586::1730438763::1730438763::1::::<><>::
+static idle.png::CompressedTexture2D::8271109942228751768::1730438763::1730438763::1::::<><>::
+walk 16x16.png::CompressedTexture2D::7759455233260256603::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Sprites/Flower Enemy/::1730438763
+attack 32x32.png::CompressedTexture2D::8035964881284899492::1730438763::1730438763::1::::<><>::
+death 32x32.png::CompressedTexture2D::1842009367930084371::1730438763::1730438763::1::::<><>::
+hit 32x32.png::CompressedTexture2D::1471907380352970182::1730438763::1730438763::1::::<><>::
+move 32x32.png::CompressedTexture2D::9134992065232609380::1730438763::1730438763::1::::<><>::
+viking.png::CompressedTexture2D::4145548690442249952::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Sprites/Hell Bot DARK/::1730438763
+attack 92x36.png::CompressedTexture2D::3760531546083433563::1730438763::1730438763::1::::<><>::
+death 92x36.png::CompressedTexture2D::710794896249965770::1730438763::1730438763::1::::<><>::
+hit 92x36.png::CompressedTexture2D::594057562923603706::1730438763::1730438763::1::::<><>::
+idle 92x36.png::CompressedTexture2D::2172863510884738260::1730438763::1730438763::1::::<><>::
+run 92x36.png::CompressedTexture2D::1821822833865685766::1730438763::1730438763::1::::<><>::
+shoot 92x36.png::CompressedTexture2D::7138392331815117690::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Sprites/Wheel Bot/::1730438763
+charge 112x26.png::CompressedTexture2D::6677737710422479254::1730438763::1730438763::1::::<><>::
+damaged 112x26.png::CompressedTexture2D::3678164793264066846::1730438763::1730438763::1::::<><>::
+death 112x26.png::CompressedTexture2D::5080306867549003420::1730438763::1730438763::1::::<><>::
+fire dash 112x26.png::CompressedTexture2D::5448343277206473639::1730438763::1730438763::1::::<><>::
+idle 112x26.png::CompressedTexture2D::1870856907727288539::1730438763::1730438763::1::::<><>::
+move 112x26.png::CompressedTexture2D::3425080599825212277::1730438763::1730438763::1::::<><>::
+shoot 112x26.png::CompressedTexture2D::7948915410126368061::1730438763::1730438763::1::::<><>::
+wake 112x26.png::CompressedTexture2D::666742798557254480::1730438763::1730438763::1::::<><>::
+::res://asset/DARK Edition/Tileset/::1730438763
+DARK Edition Tileset No background.png::CompressedTexture2D::2927072191835660671::1730438763::1730438763::1::::<><>::
+DARK Edition Tileset with background.png::CompressedTexture2D::780751619106715883::1730438763::1730438763::1::::<><>::
+::res://asset/The SwordMaster/::1730438763
+Ledge Climb Sprite Sheet 48x62.png::CompressedTexture2D::1571200275489894996::1730438763::1730438763::1::::<><>::
+Sword Master Sprite Sheet 90x37 without VFX.png::CompressedTexture2D::6110362834549167937::1730438763::1730438763::1::::<><>::
+Sword Master Sprite Sheet 90x37.png::CompressedTexture2D::9020022567661502465::1730438763::1730438763::1::::<><>::
+VFX Sprite Sheet 90x37.png::CompressedTexture2D::575338696300704899::1730438763::1730438763::1::::<><>::
+::res://demo/::1730972643
+LICENSE_ASSETS.md::TextFile::-1::1730972629::0::1::::<><>::
+::res://demo/agents/::1730972632
+01_agent_melee_simple.tscn::PackedScene::1831915529302163760::1730972629::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://cw8s50856x8ct::::res://demo/assets/agent_melee_simple.png<>uid://bpdm5jnegi38::::res://demo/ai/trees/01_agent_melee_simple.tres
+02_agent_charger.tscn::PackedScene::475741957260001502::1730972629::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://ce16nc0wy2s8::::res://demo/assets/agent_charger.png<>uid://ylife72ym5et::::res://demo/ai/trees/02_agent_charger.tres
+03_agent_imp.tscn::PackedScene::2305366293026308377::1730972629::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://h70okn6hmxum::::res://demo/assets/agent_imp.png<>uid://c2bxoo68ywb27::::res://demo/ai/trees/03_agent_imp.tres
+04_agent_skirmisher.tscn::PackedScene::5820945247435600501::1730972629::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://l042ovqqsy3l::::res://demo/assets/agent_skirmisher.png<>uid://qqmjvbeibatn::::res://demo/ai/trees/04_agent_skirmisher.tres
+05_agent_ranged.tscn::PackedScene::5393604996356640729::1730972629::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://cjts4ennjtepg::::res://demo/assets/agent_ranged.png<>uid://cqluon1y1hnn5::::res://demo/ai/trees/05_agent_ranged.tres
+06_agent_melee_combo.tscn::PackedScene::3206747996741846708::1730972629::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://bo0ibp7tvjbba::::res://demo/assets/agent_combo.png<>uid://cpncl1db8j12f::::res://demo/ai/trees/06_agent_melee_combo.tres
+07_agent_melee_nuanced.tscn::PackedScene::1905142451550455037::1730972630::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://usu3j55d6dgc::::res://demo/assets/agent_melee_nuanced.png<>uid://c2u6sljqkim0n::::res://demo/ai/trees/07_agent_melee_nuanced.tres
+08_agent_demon.tscn::PackedScene::7254380846686319523::1730972630::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://d1tx7u8ho0r4v::::res://demo/assets/agent_demon.png<>uid://cpcnbi81jqge4::::res://demo/ai/trees/08_agent_demon.tres
+09_agent_summoner.tscn::PackedScene::4076372455646886724::1730972630::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://ombnpn2edldt::::res://demo/assets/agent_summoner.png<>uid://cpxk7jnqpwwlc::::res://demo/ai/trees/09_agent_summoner.tres
+agent_base.tscn::PackedScene::1012041610767930768::1730972630::0::1::::<><>::uid://dlo1ine6p5di4::::res://demo/assets/agent_bobby.png<>res://demo/agents/scripts/agent_base.gd<>uid://dj4oayt5ttvh8::::res://demo/assets/fx.png<>uid://dwhhxj5557qrb::::res://demo/assets/shadow.png<>uid://2uyxh7sy8qny::::res://demo/assets/weapon_ninja_star.png<>uid://bdusy0qqtw0th::::res://demo/assets/smoke.png<>res://demo/agents/scripts/health.gd<>res://demo/agents/scripts/hitbox.gd<>res://demo/agents/scripts/hurtbox.gd
+::res://demo/agents/fireball/::1730972630
+fireball.gd::GDScript::-1::1730972630::0::1::::<>Node2D<>::
+fireball.tscn::PackedScene::1550384151375414861::1730972630::0::1::::<><>::res://demo/agents/fireball/fireball.gd<>uid://dwhhxj5557qrb::::res://demo/assets/shadow.png<>uid://235liwnxn1n5::::res://demo/assets/fireball.png<>res://demo/agents/scripts/hitbox.gd<>uid://bdusy0qqtw0th::::res://demo/assets/smoke.png
+::res://demo/agents/ninja_star/::1730972630
+ninja_star.gd::GDScript::-1::1730972630::0::1::::<>Node2D<>::
+ninja_star.tscn::PackedScene::3080899514233307052::1730972630::0::1::::<><>::res://demo/agents/ninja_star/ninja_star.gd<>uid://2uyxh7sy8qny::::res://demo/assets/weapon_ninja_star.png<>uid://dwhhxj5557qrb::::res://demo/assets/shadow.png<>res://demo/agents/scripts/hitbox.gd<>uid://bdusy0qqtw0th::::res://demo/assets/smoke.png
+::res://demo/agents/player/::1730972631
+player.gd::GDScript::-1::1730972630::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::8980055525361458648::1730972631::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>res://demo/agents/player/player.gd<>res://demo/agents/player/states/idle_state.gd<>res://demo/agents/player/states/move_state.gd<>res://demo/agents/player/states/attack_state.gd<>res://demo/agents/player/states/dodge_state.gd
+::res://demo/agents/player/states/::1730972631
+attack_state.gd::GDScript::-1::1730972631::0::1::::<>LimboState<>::
+dodge_state.gd::GDScript::-1::1730972631::0::1::::<>LimboState<>::
+idle_state.gd::GDScript::-1::1730972631::0::1::::<>LimboState<>::
+move_state.gd::GDScript::-1::1730972631::0::1::::<>LimboState<>::
+::res://demo/agents/scripts/::1730972632
+agent_base.gd::GDScript::-1::1730972631::0::1::::<>CharacterBody2D<>::
+health.gd::GDScript::-1::1730972631::0::1::::Health<>Node<>::
+hitbox.gd::GDScript::-1::1730972631::0::1::::Hitbox<>Area2D<>::
+hurtbox.gd::GDScript::-1::1730972632::0::1::::Hurtbox<>Area2D<>::
+::res://demo/agents/tutorial/::1730972632
+tutorial_01_welcome.tscn::PackedScene::7927132035034764887::1730972632::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://b0oeqsc0xksto::::res://demo/assets/agent_junior_pieces.png<>uid://b1mfh8yad7rmw::::res://demo/ai/trees/tutorial/tutorial_01_welcome.tres
+tutorial_02_introduction.tscn::PackedScene::6376290057902531468::1730972632::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://b0oeqsc0xksto::::res://demo/assets/agent_junior_pieces.png<>uid://b1i0xo0o676va::::res://demo/ai/trees/tutorial/tutorial_02_introduction.tres
+tutorial_03_types.tscn::PackedScene::4061116843584198636::1730972632::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://b0oeqsc0xksto::::res://demo/assets/agent_junior_pieces.png<>uid://cb0ybf24ahnc3::::res://demo/ai/trees/tutorial/tutorial_03_types.tres
+tutorial_04_sequence.tscn::PackedScene::2917753637315821850::1730972632::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://b0oeqsc0xksto::::res://demo/assets/agent_junior_pieces.png<>uid://dln8ywvtqedt7::::res://demo/ai/trees/tutorial/tutorial_04_sequence.tres
+tutorial_05_selector.tscn::PackedScene::2133475506530150475::1730972632::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://b0oeqsc0xksto::::res://demo/assets/agent_junior_pieces.png<>uid://bf4r652fv5kwi::::res://demo/ai/trees/tutorial/tutorial_05_selector.tres
+tutorial_06_decorators.tscn::PackedScene::8687454186850194::1730972632::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://b0oeqsc0xksto::::res://demo/assets/agent_junior_pieces.png<>uid://beiki511huxb8::::res://demo/ai/trees/tutorial/tutorial_06_decorators.tres
+tutorial_07_more_decorators.tscn::PackedScene::3614548647323306566::1730972632::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://b0oeqsc0xksto::::res://demo/assets/agent_junior_pieces.png<>uid://tep50j4d6kgp::::res://demo/ai/trees/tutorial/tutorial_07_more_decorators.tres
+tutorial_08_final_touch.tscn::PackedScene::4752797173049088169::1730972632::0::1::::<><>::uid://ooigbfhfy4wa::::res://demo/agents/agent_base.tscn<>uid://b0oeqsc0xksto::::res://demo/assets/agent_junior_pieces.png<>uid://dp0cglcytwcj5::::res://demo/ai/trees/tutorial/tutorial_08_final_touch.tres
+::res://demo/ai/::1730972634
+::res://demo/ai/tasks/::1730972634
+arrive_pos.gd::GDScript::-1::1730972633::0::1::::<>BTAction<>::
+back_away.gd::GDScript::-1::1730972633::0::1::::<>BTAction<>::
+face_target.gd::GDScript::-1::1730972633::0::1::::<>BTAction<>::
+get_first_in_group.gd::GDScript::-1::1730972633::0::1::::<>BTAction<>::
+in_range.gd::GDScript::-1::1730972633::0::1::::<>BTCondition<>::
+is_aligned_with_target.gd::GDScript::-1::1730972633::0::1::::<>BTCondition<>::
+move_forward.gd::GDScript::-1::1730972633::0::1::::<>BTAction<>::
+pursue.gd::GDScript::-1::1730972633::0::1::::<>BTAction<>::
+select_flanking_pos.gd::GDScript::-1::1730972633::0::1::::<>BTAction<>::
+select_random_nearby_pos.gd::GDScript::-1::1730972634::0::1::::<>BTAction<>::
+::res://demo/ai/trees/::1730972738
+01_agent_melee_simple.tres::BehaviorTree::101359680654083145::1730972738::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/pursue.gd<>res://demo/ai/tasks/face_target.gd
+02_agent_charger.tres::BehaviorTree::1707735328305567827::1730972738::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/select_flanking_pos.gd<>res://demo/ai/tasks/arrive_pos.gd<>res://demo/ai/tasks/face_target.gd<>res://demo/ai/tasks/move_forward.gd
+03_agent_imp.tres::BehaviorTree::6671426800063580234::1730972738::0::1::::<><>::res://demo/ai/tasks/select_random_nearby_pos.gd<>res://demo/ai/tasks/arrive_pos.gd<>res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/pursue.gd<>res://demo/ai/tasks/face_target.gd
+04_agent_skirmisher.tres::BehaviorTree::1156797323059445979::1730972738::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/select_flanking_pos.gd<>res://demo/ai/tasks/pursue.gd<>res://demo/ai/tasks/arrive_pos.gd<>res://demo/ai/tasks/face_target.gd<>res://demo/ai/tasks/in_range.gd<>res://demo/ai/tasks/back_away.gd
+05_agent_ranged.tres::BehaviorTree::5919811085953327844::1730972738::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/is_aligned_with_target.gd<>res://demo/ai/tasks/arrive_pos.gd<>res://demo/ai/tasks/select_flanking_pos.gd<>res://demo/ai/tasks/face_target.gd
+06_agent_melee_combo.tres::BehaviorTree::5852653380809387963::1730972738::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/select_flanking_pos.gd<>res://demo/ai/tasks/arrive_pos.gd<>res://demo/ai/tasks/face_target.gd<>res://demo/ai/tasks/move_forward.gd
+07_agent_melee_nuanced.tres::BehaviorTree::6711142664161071151::1730972738::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/select_flanking_pos.gd<>res://demo/ai/tasks/arrive_pos.gd<>res://demo/ai/tasks/face_target.gd<>res://demo/ai/tasks/pursue.gd
+08_agent_demon.tres::BehaviorTree::5830594356524007245::1730972738::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/in_range.gd<>res://demo/ai/tasks/face_target.gd<>res://demo/ai/tasks/back_away.gd<>res://demo/ai/tasks/select_flanking_pos.gd<>res://demo/ai/tasks/arrive_pos.gd
+09_agent_summoner.tres::BehaviorTree::5873819519173195056::1730972738::0::1::::<><>::res://demo/ai/tasks/select_random_nearby_pos.gd<>res://demo/ai/tasks/arrive_pos.gd
+::res://demo/ai/trees/tutorial/::1730972636
+tutorial_01_welcome.tres::BehaviorTree::4236421007202974498::1730972635::0::1::::<><>::
+tutorial_02_introduction.tres::BehaviorTree::4229405413019224502::1730972635::0::1::::<><>::
+tutorial_03_types.tres::BehaviorTree::4896098954140416428::1730972635::0::1::::<><>::res://demo/ai/tasks/select_random_nearby_pos.gd<>res://demo/ai/tasks/arrive_pos.gd<>res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/in_range.gd<>res://demo/ai/tasks/face_target.gd
+tutorial_04_sequence.tres::BehaviorTree::7960223950554858994::1730972635::0::1::::<><>::res://demo/ai/tasks/select_random_nearby_pos.gd<>res://demo/ai/tasks/arrive_pos.gd
+tutorial_05_selector.tres::BehaviorTree::2798321022905733308::1730972635::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/select_random_nearby_pos.gd<>res://demo/ai/tasks/in_range.gd<>res://demo/ai/tasks/pursue.gd<>res://demo/ai/tasks/arrive_pos.gd
+tutorial_06_decorators.tres::BehaviorTree::2684314153613519855::1730972635::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/in_range.gd<>res://demo/ai/tasks/face_target.gd<>res://demo/ai/tasks/select_random_nearby_pos.gd<>res://demo/ai/tasks/arrive_pos.gd<>res://demo/ai/tasks/pursue.gd
+tutorial_07_more_decorators.tres::BehaviorTree::1342811197157358091::1730972635::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/in_range.gd<>res://demo/ai/tasks/face_target.gd<>res://demo/ai/tasks/back_away.gd<>res://demo/ai/tasks/pursue.gd
+tutorial_08_final_touch.tres::BehaviorTree::8263836880213413944::1730972636::0::1::::<><>::res://demo/ai/tasks/get_first_in_group.gd<>res://demo/ai/tasks/select_flanking_pos.gd<>res://demo/ai/tasks/arrive_pos.gd<>res://demo/ai/tasks/face_target.gd<>res://demo/ai/tasks/in_range.gd<>res://demo/ai/tasks/back_away.gd<>res://demo/ai/tasks/pursue.gd
+::res://demo/assets/::1730972647
+agent_bobby.png::CompressedTexture2D::7961834238230159097::1730972636::1730972646::1::::<><>::
+agent_charger.png::CompressedTexture2D::150269886774704561::1730972636::1730972646::1::::<><>::
+agent_combo.png::CompressedTexture2D::3421162298388769950::1730972636::1730972646::1::::<><>::
+agent_demon.png::CompressedTexture2D::9024849901017174779::1730972636::1730972646::1::::<><>::
+agent_imp.png::CompressedTexture2D::558925466264279936::1730972637::1730972646::1::::<><>::
+agent_junior_pieces.png::CompressedTexture2D::4170315453551238972::1730972637::1730972646::1::::<><>::
+agent_melee_nuanced.png::CompressedTexture2D::1442200534840967618::1730972637::1730972646::1::::<><>::
+agent_melee_simple.png::CompressedTexture2D::6386268238461561091::1730972637::1730972646::1::::<><>::
+agent_ranged.png::CompressedTexture2D::5444909062127965084::1730972638::1730972646::1::::<><>::
+agent_skirmisher.png::CompressedTexture2D::825496501612389363::1730972638::1730972646::1::::<><>::
+agent_summoner.png::CompressedTexture2D::1007501085459642909::1730972638::1730972646::1::::<><>::
+arrow_left.png::CompressedTexture2D::7354686513934489395::1730972638::1730972646::1::::<><>::
+arrow_right.png::CompressedTexture2D::3018763496647274096::1730972639::1730972646::1::::<><>::
+dummy.png::CompressedTexture2D::5585390235689380673::1730972639::1730972646::1::::<><>::
+env_clouds.png::CompressedTexture2D::2237902854098841391::1730972639::1730972646::1::::<><>::
+env_gong.png::CompressedTexture2D::623376439932339634::1730972639::1730972646::1::::<><>::
+env_ground.png::CompressedTexture2D::4979389523287741785::1730972640::1730972647::1::::<><>::
+env_plants.png::CompressedTexture2D::2057504787863743664::1730972640::1730972646::1::::<><>::
+env_rocks.png::CompressedTexture2D::4365725229558026223::1730972640::1730972647::1::::<><>::
+fireball.png::CompressedTexture2D::1954742963650931896::1730972640::1730972646::1::::<><>::
+fx.png::CompressedTexture2D::7851679927888970411::1730972641::1730972646::1::::<><>::
+hp_bar.png::CompressedTexture2D::519510338487758527::1730972641::1730972646::1::::<><>::
+hp_over.png::CompressedTexture2D::5584098198858698829::1730972641::1730972646::1::::<><>::
+hp_under.png::CompressedTexture2D::7978388142659089080::1730972642::1730972646::1::::<><>::
+icon.svg::CompressedTexture2D::8206767662901449793::1730972642::1730972646::1::::<><>::
+logo.png::CompressedTexture2D::1384393131584172109::1730972642::1730972646::1::::<><>::
+shadow.png::CompressedTexture2D::8718333868062325283::1730972642::1730972646::1::::<><>::
+smoke.png::CompressedTexture2D::2639411873165783249::1730972643::1730972646::1::::<><>::
+ui.theme::Theme::3403264548823715553::1730972643::0::1::::<><>::
+weapon_ninja_star.png::CompressedTexture2D::1937885032342695642::1730972643::1730972646::1::::<><>::
+::res://demo/assets/fonts/::1730972646
+junction_bold.otf::FontFile::969940352192978757::1730972640::1730972646::1::::<><>::
+knewave_regular.ttf::FontFile::9117585710309910661::1730972641::1730972646::1::::<><>::
+::res://demo/props/::1730972643
+dummy.gd::GDScript::-1::1730972643::0::1::::<>CharacterBody2D<>::
+dummy.tscn::PackedScene::6889262228351241382::1730972643::0::1::::<><>::res://demo/props/dummy.gd<>uid://cltutcxjx8jnl::::res://demo/assets/dummy.png<>uid://dwhhxj5557qrb::::res://demo/assets/shadow.png<>res://demo/agents/scripts/hurtbox.gd<>res://demo/agents/scripts/health.gd
+gong.gd::GDScript::-1::1730972643::0::1::::<>StaticBody2D<>::
+gong.tscn::PackedScene::3447065066304198532::1730972643::0::1::::<><>::res://demo/props/gong.gd<>uid://i476iia1ua8q::::res://demo/assets/env_gong.png<>uid://dwhhxj5557qrb::::res://demo/assets/shadow.png<>uid://dj4oayt5ttvh8::::res://demo/assets/fx.png<>res://demo/agents/scripts/hurtbox.gd<>res://demo/agents/scripts/health.gd
+::res://demo/scenes/::1730972644
+game.gd::GDScript::-1::1730972644::0::1::::<>Node2D<>::
+game.tscn::PackedScene::5594899523157920520::1730972644::0::1::::<><>::res://demo/scenes/game.gd<>uid://boqtjf88xcpu4::::res://demo/assets/ui.theme<>uid://tyu0ua1ju38l::::res://demo/assets/logo.png<>uid://d25vkmce7mhlt::::res://demo/assets/fonts/knewave_regular.ttf<>res://demo/scenes/base/toggle_fullscreen.gd<>uid://dlw15foygohrk::::res://demo/assets/hp_under.png<>uid://cls8jtnu413o8::::res://demo/assets/hp_over.png<>uid://hnwi23oef752::::res://demo/assets/hp_bar.png<>uid://bsig1usigbbuy::::res://demo/scenes/base/arena.tscn<>uid://bpd1wmw2f7bvg::::res://demo/props/gong.tscn<>uid://d07ag5dcje13i::::res://demo/agents/player/player.tscn
+showcase.gd::GDScript::-1::1730972644::0::1::::<>Node2D<>::
+showcase.tscn::PackedScene::4351999146013135544::1730972644::0::1::::<><>::res://demo/scenes/showcase.gd<>uid://boqtjf88xcpu4::::res://demo/assets/ui.theme<>uid://d25vkmce7mhlt::::res://demo/assets/fonts/knewave_regular.ttf<>uid://n231m6uqsq6x::::res://demo/assets/fonts/junction_bold.otf<>uid://dc1wu244fnetf::::res://demo/assets/arrow_left.png<>uid://tyu0ua1ju38l::::res://demo/assets/logo.png<>res://demo/scenes/base/toggle_fullscreen.gd<>uid://bjakugmqbbtw7::::res://demo/assets/arrow_right.png<>uid://bsig1usigbbuy::::res://demo/scenes/base/arena.tscn<>uid://c5fhe3tulhlco::::res://demo/props/dummy.tscn<>res://demo/scenes/base/code_edit.gd
+::res://demo/scenes/base/::1730972644
+arena.tscn::PackedScene::3666746702453313196::1730972644::0::1::::<><>::uid://65b6yuobhxf8::::res://demo/assets/env_clouds.png<>uid://b3g14elmg0m36::::res://demo/assets/env_rocks.png<>uid://cc7b22sy46gwn::::res://demo/assets/env_ground.png<>uid://4kw2ks8doc0w::::res://demo/assets/env_plants.png
+clouds.tscn::PackedScene::251445743943461306::1730972644::0::1::::<><>::uid://65b6yuobhxf8::::res://demo/assets/env_clouds.png
+code_edit.gd::GDScript::-1::1730972644::0::1::::<>CodeEdit<>::
+toggle_fullscreen.gd::GDScript::-1::1730972644::0::1::::<>Button<>::
+::res://scenes/::1731559248
+character_body_2d.gd::GDScript::-1::1731559248::0::1::::<>CharacterBody2D<>::
+character_body_2d.tscn::PackedScene::4288726822349369799::1731559248::0::1::::<><>::uid://d1rmpowa4577b::::res://asset/The SwordMaster/Sword Master Sprite Sheet 90x37.png<>res://scenes/character_body_2d.gd<>uid://ctb51vk6leo70::::res://asset/The SwordMaster/Sword Master Sprite Sheet 90x37 without VFX.png<>uid://igx0km13x87h::::res://asset/The SwordMaster/VFX Sprite Sheet 90x37.png
+enemy_bot.tscn::PackedScene::1048470955891767907::1731559248::0::1::::<><>::uid://c8x5jqi5fobss::::res://asset/DARK Edition/Sprites/Hell Bot DARK/shoot 92x36.png<>uid://bttvn1l0138wl::::res://asset/DARK Edition/Sprites/Hell Bot DARK/attack 92x36.png<>uid://kekxno2git5c::::res://asset/DARK Edition/Sprites/Hell Bot DARK/death 92x36.png<>uid://ip1bnyar1pgs::::res://asset/DARK Edition/Sprites/Hell Bot DARK/hit 92x36.png<>uid://57s0kym6y3qu::::res://asset/DARK Edition/Sprites/Hell Bot DARK/idle 92x36.png<>uid://07rfkhtu7qsc::::res://asset/DARK Edition/Sprites/Hell Bot DARK/run 92x36.png
+state_machine.tscn::PackedScene::7962601676014947843::1731559248::0::1::::<><>::
+tile_map.gd::GDScript::-1::1730973095::0::1::::<>RefCounted<>::
+tile_map.tscn::PackedScene::753708025149143791::1731559248::0::1::::<><>::uid://bhx5pl023gqqp::::res://asset/DARK Edition/Tileset/DARK Edition Tileset No background.png
+world.tscn::PackedScene::4475441221870130160::1731559248::0::1::::<><>::uid://k0dpw8l30mih::::res://scenes/tile_map.tscn<>uid://b2dqx7a3c2hqt::::res://scenes/character_body_2d.tscn<>uid://o65fs7vra7qt::::res://scenes/enemy_bot.tscn
